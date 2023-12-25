@@ -1,0 +1,22 @@
+{
+  "name": "thanh-nam",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/image": "^0.18.0",
+    "@astrojs/lit": "^4.0.0",
+    "@astrojs/mdx": "^2.0.2",
+    "@astrojs/sitemap": "^3.0.3",
+    "astro": "^4.0.7"
+  },
+  "devDependencies": {
+    "@littlesticks/odyssey-theme-components": "^0.0.23"
+  }
+}
